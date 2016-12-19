@@ -2,8 +2,9 @@
 
 This is the project for the Getting and Cleaning Data Course by Cousera. 
 The script is called run_analysis.R. Script reads raw data files and creates clean data set.
+For details about the variables, refer to CodeBook.md
 
-### Required R Packages
+### Required R Packages 
 install.packages("data.table")
 
 ### RAW DATA:

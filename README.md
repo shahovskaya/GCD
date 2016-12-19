@@ -1,17 +1,4 @@
-# GCD
-Getting and Cleaning Data Course Project
- ---
-title: "README"
-author: "Kasya Shahovskaya"
-date: "19/12/2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 This is the project for the Getting and Cleaning Data Course by Cousera. 
 The script is called run_analysis.R. Script reads raw data files and creates clean data set.

@@ -6,8 +6,6 @@ The script is called run_analysis.R. Script reads raw data files and creates cle
 ### Required R Packages
 install.packages("data.table")
 
-### Data files used
-
 ### RAW DATA:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and can be downloaded at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
